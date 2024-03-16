@@ -4,7 +4,7 @@
     left: 50%;
     transform: translate(-50%,-50%);
     border: 1px solid black;
-    width:400px ;
+    width:500px ;
 }
 .maindiv>h1{
     font-size: 30px;
